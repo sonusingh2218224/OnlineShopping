@@ -1,0 +1,17 @@
+.m-counter{
+   border: 2px solid red ; 
+   height: 20vh;
+   color:red;
+   width: 10%;
+   
+   
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.m-counter button{
+    color: red;
+    background-color: green;
+    
+}

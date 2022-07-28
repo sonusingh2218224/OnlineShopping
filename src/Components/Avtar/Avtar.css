@@ -1,0 +1,11 @@
+.Avtar{
+display: flex;
+border-radius: 50%;
+justify-content: center;
+align-items: center;
+width: 250px;
+height: 250px;
+margin: auto;
+margin-top: 90px;
+
+}
